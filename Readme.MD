@@ -7,8 +7,8 @@
 ### DevOps Engineer @ Infosys Limited  
 🚀 DevOps • Cloud Engineer | AWS  | CI/CD | Docker | Kubernetes | Terraform | Ansible | Mentor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/lakshmanudu-pagala-501262324/)
-[![Gmail](https://img.shields.io/badge/Email-laxman.gdn@gmail.com-red?logo=gmail&style=flat)](mailto:laxman.gdn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/nagendra-kadumuru-870b6a19a/)
+[![Gmail](https://img.shields.io/badge/Email-nagendrakadumuru82@gmail.com-red?logo=gmail&style=flat)](mailto:nagendrakadumuru82@gmail.com)
 
 ---
 
@@ -158,7 +158,7 @@ Passionate **DevOps & AWS Cloud Engineer** with **4 years of experience** in inf
 ---
 
 ### 📊 GitHub Activity Graph
-[![Lakshman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagendra80&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nagendra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nagendra80&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
