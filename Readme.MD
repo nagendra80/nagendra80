@@ -2,7 +2,7 @@
   <img src="https://github.com/Lakshmanp145/Lakshmanp145/blob/main/Banner2.png" alt="GitHub Banner" width="800"/>
 </div>
 
-# 👋 Hi, I'm Lakshmanudu Pagala
+# 👋 Hi, I'm Nagandra kadumuru
 
 ### DevOps Engineer @ Infosys Limited  
 🚀 DevOps • Cloud Engineer | AWS  | CI/CD | Docker | Kubernetes | Terraform | Ansible | Mentor
